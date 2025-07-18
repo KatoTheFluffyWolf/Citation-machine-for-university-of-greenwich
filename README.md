@@ -50,6 +50,7 @@ Built using the [Crossref API](https://api.crossref.org), this extension fetches
 ---
 
 ## 📁 Project Structure
+
 ├── manifest.json # Chrome Extension metadata
 ├── popup.html # User interface
 ├── popup.js # UI logic + citation saving
