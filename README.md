@@ -92,7 +92,7 @@ This project is released for academic and personal use under the **MIT License**
 
 ## 👤 Author
 
--Duy Anh Nguyen
--GitHub: https://github.com/KatoTheFluffyWolf
+- Duy Anh Nguyen
+- GitHub: https://github.com/KatoTheFluffyWolf
 
 > For inquiries or collaboration, feel free to open an issue or fork this repo.
