@@ -1,4 +1,4 @@
-# Harvard Citation Generator (Chrome Extension)
+# 📚 Harvard Citation Generator (Chrome Extension)
 
 A browser extension that automatically generates accurate Harvard-style academic citations based on the article title, following the **University of Greenwich** citation format.
 
@@ -6,7 +6,7 @@ Built using the [Crossref API](https://api.crossref.org), this extension fetches
 
 ---
 
-## Features
+## 🎯 Features
 
 - 🔍 Search article metadata by title using Crossref
 - 📝 Formats citation according to University of Greenwich's Harvard guidelines
@@ -29,12 +29,12 @@ Built using the [Crossref API](https://api.crossref.org), this extension fetches
 
 ## 🖼 UI Preview
 
-![screenshot](images/school-logo.png)  
+![screenshot](images/Screenshot.png)  
 *(Branded with University of Greenwich Cần Thơ)*
 
 ---
 
-## How It Works
+## 🔍 How It Works
 
 1. Enter an article title in the input field.
 2. Click **"Generate Citation"**
@@ -49,7 +49,7 @@ Built using the [Crossref API](https://api.crossref.org), this extension fetches
 
 ---
 
-## Project Structure
+## 📁 Project Structure
 
     .
     ├── manifest.json         # Chrome Extension metadata
