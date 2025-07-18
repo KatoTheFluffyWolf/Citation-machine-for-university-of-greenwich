@@ -93,9 +93,9 @@ This project is released for academic and personal use under the **MIT License**
 ## 👤 Author
 
 Duy Anh Nguyen.  
-GitHub: https://github.com/KatoTheFluffyWolf.
+GitHub: https://github.com/KatoTheFluffyWolf
 
 Hoang Khoa Trinh.  
-
+GitHub: https://github.com/trinhkhoa
 
 > For inquiries or collaboration, feel free to open an issue or fork this repo.
